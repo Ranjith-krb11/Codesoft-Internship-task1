@@ -1,4 +1,6 @@
-# Codesoft-internship
+# Codesoft-internship-task1
 
+Completed my First Task at Codesoft Internship
 
-This is a github repository that holds all of my 2nd year internship works which I pursued during my winter holidays in the domain of java development with a duration of 1 month in the codesoft company...
+This simple game utilizes dialog boxes to interact with the user and provides feedback based on their guesses, guiding them to determine the randomly generated number within the specified range.
+
